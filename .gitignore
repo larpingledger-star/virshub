@@ -1,0 +1,5 @@
+.release-work/
+luaProtect-main/
+new rivals test.txt
+*.backup-*
+luaprotect-failed-output.lua
